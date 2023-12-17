@@ -1,0 +1,28 @@
+Blog Name:- demo
+
+
+User Interface:-
+
+		---View Article
+		---view Article Multiple Forms
+
+Admin Interface:-
+		---Login/Sign up with logout
+		---Add Article
+		---Edit Article
+		---Delete Article
+
+	Create Table Article
+	{
+		id,article_title,article_body,user_id
+	}
+	Create Table User
+	{
+		id,username,Password,Firstname,lastname
+	}
+
+Technologies:-
+		
+		---PHP Framework (Codeigniter)
+		---UI Technologies (Angular JS 1.6)
+		---Css-(Boostrap Framwork)

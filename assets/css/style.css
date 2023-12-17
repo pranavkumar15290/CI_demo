@@ -1,0 +1,14 @@
+table, th, td {
+    padding: 10px 20px;
+    color: red;
+}
+.a_art {
+    width: 150px;
+    float: inherit;
+}
+.pagination li {
+    border: 1px solid #000;
+    width: 19px;
+    text-align: center;
+    margin-right: 1px;
+}
